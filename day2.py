@@ -7,6 +7,6 @@ def day2():
 
 def delete():
     print("删除1")
-    
-def find():
-    print('find')
+
+def search():
+    print("search")
