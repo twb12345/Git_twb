@@ -4,3 +4,6 @@
 
 def day1():
     print('day1')
+
+def day1_search():
+    print("查询功能")
