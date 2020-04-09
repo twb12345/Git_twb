@@ -9,4 +9,4 @@ def delete():
     print("删除1")
 
 def search():
-    print("search1")
+    print("search")
