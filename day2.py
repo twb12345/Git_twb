@@ -4,3 +4,6 @@
 
 def day2():
     print('day2')
+
+def delete():
+    print("删除")
